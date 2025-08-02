@@ -26,4 +26,4 @@ A Gen AI project that extracts and summarizes live news articles using natural l
 
 ## 📌 Author
 *Devarsh Panchal*  
-GitHub: [Devarsh2806](https://github.com/Devarsh2806)
+GitHub: [Devarsh2708](https://github.com/Devarsh2708)
